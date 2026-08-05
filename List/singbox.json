@@ -134,31 +134,8 @@
     },
     {
       "type": "vless",
-      "tag": "Saffari @MyChannel 173.245.59.174:2087 [VLESS]",
-      "server": "173.245.59.174",
-      "server_port": 2087,
-      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "me.saffari.shop"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "me.saffari.shop",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "Saffari @MyChannel 198.41.223.92:2053 [VLESS]",
-      "server": "198.41.223.92",
+      "tag": "Saffari @MyChannel 104.19.34.137:2053 [VLESS]",
+      "server": "104.19.34.137",
       "server_port": 2053,
       "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
       "transport": {
@@ -180,8 +157,284 @@
     },
     {
       "type": "vless",
-      "tag": "Saffari @MyChannel 173.245.58.125:2083 [VLESS]",
-      "server": "173.245.58.125",
+      "tag": "Saffari @MyChannel 104.17.116.226:8443 [VLESS]",
+      "server": "104.17.116.226",
+      "server_port": 8443,
+      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "me.saffari.shop"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "me.saffari.shop",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "Saffari @MyChannel 108.162.198.234:2053 [VLESS]",
+      "server": "108.162.198.234",
+      "server_port": 2053,
+      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "me.saffari.shop"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "me.saffari.shop",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "Saffari @MyChannel 104.17.209.123:443 [VLESS]",
+      "server": "104.17.209.123",
+      "server_port": 443,
+      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "me.saffari.shop"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "me.saffari.shop",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "Saffari @MyChannel 172.67.66.121:2096 [VLESS]",
+      "server": "172.67.66.121",
+      "server_port": 2096,
+      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "me.saffari.shop"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "me.saffari.shop",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "Saffari @MyChannel 172.67.77.125:2096 [VLESS]",
+      "server": "172.67.77.125",
+      "server_port": 2096,
+      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "me.saffari.shop"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "me.saffari.shop",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "Saffari @MyChannel 91.193.58.167:443 [VLESS]",
+      "server": "91.193.58.167",
+      "server_port": 443,
+      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "me.saffari.shop"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "me.saffari.shop",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "Saffari @MyChannel 104.16.249.25:8443 [VLESS]",
+      "server": "104.16.249.25",
+      "server_port": 8443,
+      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "me.saffari.shop"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "me.saffari.shop",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "Saffari @MyChannel 104.17.167.244:8443 [VLESS]",
+      "server": "104.17.167.244",
+      "server_port": 8443,
+      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "me.saffari.shop"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "me.saffari.shop",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "Saffari @MyChannel 8.35.211.233:2087 [VLESS]",
+      "server": "8.35.211.233",
+      "server_port": 2087,
+      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "me.saffari.shop"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "me.saffari.shop",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "Saffari @MyChannel 104.17.186.223:8443 [VLESS]",
+      "server": "104.17.186.223",
+      "server_port": 8443,
+      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "me.saffari.shop"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "me.saffari.shop",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "Saffari @MyChannel 8.35.211.245:2096 [VLESS]",
+      "server": "8.35.211.245",
+      "server_port": 2096,
+      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "me.saffari.shop"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "me.saffari.shop",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "Saffari @MyChannel 104.17.176.36:2053 [VLESS]",
+      "server": "104.17.176.36",
+      "server_port": 2053,
+      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "me.saffari.shop"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "me.saffari.shop",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "Saffari @MyChannel 162.159.39.51:2083 [VLESS]",
+      "server": "162.159.39.51",
       "server_port": 2083,
       "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
       "transport": {
@@ -203,31 +456,8 @@
     },
     {
       "type": "vless",
-      "tag": "Saffari @MyChannel 91.193.58.49:2053 [VLESS]",
-      "server": "91.193.58.49",
-      "server_port": 2053,
-      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "me.saffari.shop"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "me.saffari.shop",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "Saffari @MyChannel 104.16.250.200:2087 [VLESS]",
-      "server": "104.16.250.200",
+      "tag": "Saffari @MyChannel 162.159.39.50:2087 [VLESS]",
+      "server": "162.159.39.50",
       "server_port": 2087,
       "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
       "transport": {
@@ -249,239 +479,9 @@
     },
     {
       "type": "vless",
-      "tag": "Saffari @MyChannel 104.17.115.241:8443 [VLESS]",
-      "server": "104.17.115.241",
-      "server_port": 8443,
-      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "me.saffari.shop"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "me.saffari.shop",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "Saffari @MyChannel 198.41.223.223:8443 [VLESS]",
-      "server": "198.41.223.223",
-      "server_port": 8443,
-      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "me.saffari.shop"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "me.saffari.shop",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "Saffari @MyChannel 91.193.58.79:443 [VLESS]",
-      "server": "91.193.58.79",
-      "server_port": 443,
-      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "me.saffari.shop"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "me.saffari.shop",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "Saffari @MyChannel 104.18.33.101:443 [VLESS]",
-      "server": "104.18.33.101",
-      "server_port": 443,
-      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "me.saffari.shop"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "me.saffari.shop",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "Saffari @MyChannel 104.17.159.119:8443 [VLESS]",
-      "server": "104.17.159.119",
-      "server_port": 8443,
-      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "me.saffari.shop"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "me.saffari.shop",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "Saffari @MyChannel 198.41.223.103:2053 [VLESS]",
-      "server": "198.41.223.103",
-      "server_port": 2053,
-      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "me.saffari.shop"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "me.saffari.shop",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "Saffari @MyChannel 8.35.211.247:2087 [VLESS]",
-      "server": "8.35.211.247",
+      "tag": "Saffari @MyChannel 8.35.211.253:2087 [VLESS]",
+      "server": "8.35.211.253",
       "server_port": 2087,
-      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "me.saffari.shop"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "me.saffari.shop",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "Saffari @MyChannel 8.35.211.77:2053 [VLESS]",
-      "server": "8.35.211.77",
-      "server_port": 2053,
-      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "me.saffari.shop"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "me.saffari.shop",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "Saffari @MyChannel 104.26.6.235:2053 [VLESS]",
-      "server": "104.26.6.235",
-      "server_port": 2053,
-      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "me.saffari.shop"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "me.saffari.shop",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "Saffari @MyChannel 188.164.248.6:8443 [VLESS]",
-      "server": "188.164.248.6",
-      "server_port": 8443,
-      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "me.saffari.shop"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "me.saffari.shop",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "Saffari @MyChannel 104.17.217.193:2096 [VLESS]",
-      "server": "104.17.217.193",
-      "server_port": 2096,
       "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
       "transport": {
         "path": "/",
@@ -511,22 +511,22 @@
         "🔮 负载均衡",
         "DIRECT",
         "Saffari @MyChannel me.saffari.shop:443 [VLESS]",
-        "Saffari @MyChannel 173.245.59.174:2087 [VLESS]",
-        "Saffari @MyChannel 198.41.223.92:2053 [VLESS]",
-        "Saffari @MyChannel 173.245.58.125:2083 [VLESS]",
-        "Saffari @MyChannel 91.193.58.49:2053 [VLESS]",
-        "Saffari @MyChannel 104.16.250.200:2087 [VLESS]",
-        "Saffari @MyChannel 104.17.115.241:8443 [VLESS]",
-        "Saffari @MyChannel 198.41.223.223:8443 [VLESS]",
-        "Saffari @MyChannel 91.193.58.79:443 [VLESS]",
-        "Saffari @MyChannel 104.18.33.101:443 [VLESS]",
-        "Saffari @MyChannel 104.17.159.119:8443 [VLESS]",
-        "Saffari @MyChannel 198.41.223.103:2053 [VLESS]",
-        "Saffari @MyChannel 8.35.211.247:2087 [VLESS]",
-        "Saffari @MyChannel 8.35.211.77:2053 [VLESS]",
-        "Saffari @MyChannel 104.26.6.235:2053 [VLESS]",
-        "Saffari @MyChannel 188.164.248.6:8443 [VLESS]",
-        "Saffari @MyChannel 104.17.217.193:2096 [VLESS]"
+        "Saffari @MyChannel 104.19.34.137:2053 [VLESS]",
+        "Saffari @MyChannel 104.17.116.226:8443 [VLESS]",
+        "Saffari @MyChannel 108.162.198.234:2053 [VLESS]",
+        "Saffari @MyChannel 104.17.209.123:443 [VLESS]",
+        "Saffari @MyChannel 172.67.66.121:2096 [VLESS]",
+        "Saffari @MyChannel 172.67.77.125:2096 [VLESS]",
+        "Saffari @MyChannel 91.193.58.167:443 [VLESS]",
+        "Saffari @MyChannel 104.16.249.25:8443 [VLESS]",
+        "Saffari @MyChannel 104.17.167.244:8443 [VLESS]",
+        "Saffari @MyChannel 8.35.211.233:2087 [VLESS]",
+        "Saffari @MyChannel 104.17.186.223:8443 [VLESS]",
+        "Saffari @MyChannel 8.35.211.245:2096 [VLESS]",
+        "Saffari @MyChannel 104.17.176.36:2053 [VLESS]",
+        "Saffari @MyChannel 162.159.39.51:2083 [VLESS]",
+        "Saffari @MyChannel 162.159.39.50:2087 [VLESS]",
+        "Saffari @MyChannel 8.35.211.253:2087 [VLESS]"
       ]
     },
     {
@@ -534,22 +534,22 @@
       "tag": "♻️ 自动选择",
       "outbounds": [
         "Saffari @MyChannel me.saffari.shop:443 [VLESS]",
-        "Saffari @MyChannel 173.245.59.174:2087 [VLESS]",
-        "Saffari @MyChannel 198.41.223.92:2053 [VLESS]",
-        "Saffari @MyChannel 173.245.58.125:2083 [VLESS]",
-        "Saffari @MyChannel 91.193.58.49:2053 [VLESS]",
-        "Saffari @MyChannel 104.16.250.200:2087 [VLESS]",
-        "Saffari @MyChannel 104.17.115.241:8443 [VLESS]",
-        "Saffari @MyChannel 198.41.223.223:8443 [VLESS]",
-        "Saffari @MyChannel 91.193.58.79:443 [VLESS]",
-        "Saffari @MyChannel 104.18.33.101:443 [VLESS]",
-        "Saffari @MyChannel 104.17.159.119:8443 [VLESS]",
-        "Saffari @MyChannel 198.41.223.103:2053 [VLESS]",
-        "Saffari @MyChannel 8.35.211.247:2087 [VLESS]",
-        "Saffari @MyChannel 8.35.211.77:2053 [VLESS]",
-        "Saffari @MyChannel 104.26.6.235:2053 [VLESS]",
-        "Saffari @MyChannel 188.164.248.6:8443 [VLESS]",
-        "Saffari @MyChannel 104.17.217.193:2096 [VLESS]"
+        "Saffari @MyChannel 104.19.34.137:2053 [VLESS]",
+        "Saffari @MyChannel 104.17.116.226:8443 [VLESS]",
+        "Saffari @MyChannel 108.162.198.234:2053 [VLESS]",
+        "Saffari @MyChannel 104.17.209.123:443 [VLESS]",
+        "Saffari @MyChannel 172.67.66.121:2096 [VLESS]",
+        "Saffari @MyChannel 172.67.77.125:2096 [VLESS]",
+        "Saffari @MyChannel 91.193.58.167:443 [VLESS]",
+        "Saffari @MyChannel 104.16.249.25:8443 [VLESS]",
+        "Saffari @MyChannel 104.17.167.244:8443 [VLESS]",
+        "Saffari @MyChannel 8.35.211.233:2087 [VLESS]",
+        "Saffari @MyChannel 104.17.186.223:8443 [VLESS]",
+        "Saffari @MyChannel 8.35.211.245:2096 [VLESS]",
+        "Saffari @MyChannel 104.17.176.36:2053 [VLESS]",
+        "Saffari @MyChannel 162.159.39.51:2083 [VLESS]",
+        "Saffari @MyChannel 162.159.39.50:2087 [VLESS]",
+        "Saffari @MyChannel 8.35.211.253:2087 [VLESS]"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "5m",
@@ -560,22 +560,22 @@
       "tag": "🔯 故障转移",
       "outbounds": [
         "Saffari @MyChannel me.saffari.shop:443 [VLESS]",
-        "Saffari @MyChannel 173.245.59.174:2087 [VLESS]",
-        "Saffari @MyChannel 198.41.223.92:2053 [VLESS]",
-        "Saffari @MyChannel 173.245.58.125:2083 [VLESS]",
-        "Saffari @MyChannel 91.193.58.49:2053 [VLESS]",
-        "Saffari @MyChannel 104.16.250.200:2087 [VLESS]",
-        "Saffari @MyChannel 104.17.115.241:8443 [VLESS]",
-        "Saffari @MyChannel 198.41.223.223:8443 [VLESS]",
-        "Saffari @MyChannel 91.193.58.79:443 [VLESS]",
-        "Saffari @MyChannel 104.18.33.101:443 [VLESS]",
-        "Saffari @MyChannel 104.17.159.119:8443 [VLESS]",
-        "Saffari @MyChannel 198.41.223.103:2053 [VLESS]",
-        "Saffari @MyChannel 8.35.211.247:2087 [VLESS]",
-        "Saffari @MyChannel 8.35.211.77:2053 [VLESS]",
-        "Saffari @MyChannel 104.26.6.235:2053 [VLESS]",
-        "Saffari @MyChannel 188.164.248.6:8443 [VLESS]",
-        "Saffari @MyChannel 104.17.217.193:2096 [VLESS]"
+        "Saffari @MyChannel 104.19.34.137:2053 [VLESS]",
+        "Saffari @MyChannel 104.17.116.226:8443 [VLESS]",
+        "Saffari @MyChannel 108.162.198.234:2053 [VLESS]",
+        "Saffari @MyChannel 104.17.209.123:443 [VLESS]",
+        "Saffari @MyChannel 172.67.66.121:2096 [VLESS]",
+        "Saffari @MyChannel 172.67.77.125:2096 [VLESS]",
+        "Saffari @MyChannel 91.193.58.167:443 [VLESS]",
+        "Saffari @MyChannel 104.16.249.25:8443 [VLESS]",
+        "Saffari @MyChannel 104.17.167.244:8443 [VLESS]",
+        "Saffari @MyChannel 8.35.211.233:2087 [VLESS]",
+        "Saffari @MyChannel 104.17.186.223:8443 [VLESS]",
+        "Saffari @MyChannel 8.35.211.245:2096 [VLESS]",
+        "Saffari @MyChannel 104.17.176.36:2053 [VLESS]",
+        "Saffari @MyChannel 162.159.39.51:2083 [VLESS]",
+        "Saffari @MyChannel 162.159.39.50:2087 [VLESS]",
+        "Saffari @MyChannel 8.35.211.253:2087 [VLESS]"
       ]
     },
     {
@@ -583,22 +583,22 @@
       "tag": "🔮 负载均衡",
       "outbounds": [
         "Saffari @MyChannel me.saffari.shop:443 [VLESS]",
-        "Saffari @MyChannel 173.245.59.174:2087 [VLESS]",
-        "Saffari @MyChannel 198.41.223.92:2053 [VLESS]",
-        "Saffari @MyChannel 173.245.58.125:2083 [VLESS]",
-        "Saffari @MyChannel 91.193.58.49:2053 [VLESS]",
-        "Saffari @MyChannel 104.16.250.200:2087 [VLESS]",
-        "Saffari @MyChannel 104.17.115.241:8443 [VLESS]",
-        "Saffari @MyChannel 198.41.223.223:8443 [VLESS]",
-        "Saffari @MyChannel 91.193.58.79:443 [VLESS]",
-        "Saffari @MyChannel 104.18.33.101:443 [VLESS]",
-        "Saffari @MyChannel 104.17.159.119:8443 [VLESS]",
-        "Saffari @MyChannel 198.41.223.103:2053 [VLESS]",
-        "Saffari @MyChannel 8.35.211.247:2087 [VLESS]",
-        "Saffari @MyChannel 8.35.211.77:2053 [VLESS]",
-        "Saffari @MyChannel 104.26.6.235:2053 [VLESS]",
-        "Saffari @MyChannel 188.164.248.6:8443 [VLESS]",
-        "Saffari @MyChannel 104.17.217.193:2096 [VLESS]"
+        "Saffari @MyChannel 104.19.34.137:2053 [VLESS]",
+        "Saffari @MyChannel 104.17.116.226:8443 [VLESS]",
+        "Saffari @MyChannel 108.162.198.234:2053 [VLESS]",
+        "Saffari @MyChannel 104.17.209.123:443 [VLESS]",
+        "Saffari @MyChannel 172.67.66.121:2096 [VLESS]",
+        "Saffari @MyChannel 172.67.77.125:2096 [VLESS]",
+        "Saffari @MyChannel 91.193.58.167:443 [VLESS]",
+        "Saffari @MyChannel 104.16.249.25:8443 [VLESS]",
+        "Saffari @MyChannel 104.17.167.244:8443 [VLESS]",
+        "Saffari @MyChannel 8.35.211.233:2087 [VLESS]",
+        "Saffari @MyChannel 104.17.186.223:8443 [VLESS]",
+        "Saffari @MyChannel 8.35.211.245:2096 [VLESS]",
+        "Saffari @MyChannel 104.17.176.36:2053 [VLESS]",
+        "Saffari @MyChannel 162.159.39.51:2083 [VLESS]",
+        "Saffari @MyChannel 162.159.39.50:2087 [VLESS]",
+        "Saffari @MyChannel 8.35.211.253:2087 [VLESS]"
       ]
     },
     {
@@ -634,22 +634,22 @@
         "🔯 故障转移",
         "🔮 负载均衡",
         "Saffari @MyChannel me.saffari.shop:443 [VLESS]",
-        "Saffari @MyChannel 173.245.59.174:2087 [VLESS]",
-        "Saffari @MyChannel 198.41.223.92:2053 [VLESS]",
-        "Saffari @MyChannel 173.245.58.125:2083 [VLESS]",
-        "Saffari @MyChannel 91.193.58.49:2053 [VLESS]",
-        "Saffari @MyChannel 104.16.250.200:2087 [VLESS]",
-        "Saffari @MyChannel 104.17.115.241:8443 [VLESS]",
-        "Saffari @MyChannel 198.41.223.223:8443 [VLESS]",
-        "Saffari @MyChannel 91.193.58.79:443 [VLESS]",
-        "Saffari @MyChannel 104.18.33.101:443 [VLESS]",
-        "Saffari @MyChannel 104.17.159.119:8443 [VLESS]",
-        "Saffari @MyChannel 198.41.223.103:2053 [VLESS]",
-        "Saffari @MyChannel 8.35.211.247:2087 [VLESS]",
-        "Saffari @MyChannel 8.35.211.77:2053 [VLESS]",
-        "Saffari @MyChannel 104.26.6.235:2053 [VLESS]",
-        "Saffari @MyChannel 188.164.248.6:8443 [VLESS]",
-        "Saffari @MyChannel 104.17.217.193:2096 [VLESS]"
+        "Saffari @MyChannel 104.19.34.137:2053 [VLESS]",
+        "Saffari @MyChannel 104.17.116.226:8443 [VLESS]",
+        "Saffari @MyChannel 108.162.198.234:2053 [VLESS]",
+        "Saffari @MyChannel 104.17.209.123:443 [VLESS]",
+        "Saffari @MyChannel 172.67.66.121:2096 [VLESS]",
+        "Saffari @MyChannel 172.67.77.125:2096 [VLESS]",
+        "Saffari @MyChannel 91.193.58.167:443 [VLESS]",
+        "Saffari @MyChannel 104.16.249.25:8443 [VLESS]",
+        "Saffari @MyChannel 104.17.167.244:8443 [VLESS]",
+        "Saffari @MyChannel 8.35.211.233:2087 [VLESS]",
+        "Saffari @MyChannel 104.17.186.223:8443 [VLESS]",
+        "Saffari @MyChannel 8.35.211.245:2096 [VLESS]",
+        "Saffari @MyChannel 104.17.176.36:2053 [VLESS]",
+        "Saffari @MyChannel 162.159.39.51:2083 [VLESS]",
+        "Saffari @MyChannel 162.159.39.50:2087 [VLESS]",
+        "Saffari @MyChannel 8.35.211.253:2087 [VLESS]"
       ]
     },
     {
@@ -665,22 +665,22 @@
         "🔯 故障转移",
         "🔮 负载均衡",
         "Saffari @MyChannel me.saffari.shop:443 [VLESS]",
-        "Saffari @MyChannel 173.245.59.174:2087 [VLESS]",
-        "Saffari @MyChannel 198.41.223.92:2053 [VLESS]",
-        "Saffari @MyChannel 173.245.58.125:2083 [VLESS]",
-        "Saffari @MyChannel 91.193.58.49:2053 [VLESS]",
-        "Saffari @MyChannel 104.16.250.200:2087 [VLESS]",
-        "Saffari @MyChannel 104.17.115.241:8443 [VLESS]",
-        "Saffari @MyChannel 198.41.223.223:8443 [VLESS]",
-        "Saffari @MyChannel 91.193.58.79:443 [VLESS]",
-        "Saffari @MyChannel 104.18.33.101:443 [VLESS]",
-        "Saffari @MyChannel 104.17.159.119:8443 [VLESS]",
-        "Saffari @MyChannel 198.41.223.103:2053 [VLESS]",
-        "Saffari @MyChannel 8.35.211.247:2087 [VLESS]",
-        "Saffari @MyChannel 8.35.211.77:2053 [VLESS]",
-        "Saffari @MyChannel 104.26.6.235:2053 [VLESS]",
-        "Saffari @MyChannel 188.164.248.6:8443 [VLESS]",
-        "Saffari @MyChannel 104.17.217.193:2096 [VLESS]"
+        "Saffari @MyChannel 104.19.34.137:2053 [VLESS]",
+        "Saffari @MyChannel 104.17.116.226:8443 [VLESS]",
+        "Saffari @MyChannel 108.162.198.234:2053 [VLESS]",
+        "Saffari @MyChannel 104.17.209.123:443 [VLESS]",
+        "Saffari @MyChannel 172.67.66.121:2096 [VLESS]",
+        "Saffari @MyChannel 172.67.77.125:2096 [VLESS]",
+        "Saffari @MyChannel 91.193.58.167:443 [VLESS]",
+        "Saffari @MyChannel 104.16.249.25:8443 [VLESS]",
+        "Saffari @MyChannel 104.17.167.244:8443 [VLESS]",
+        "Saffari @MyChannel 8.35.211.233:2087 [VLESS]",
+        "Saffari @MyChannel 104.17.186.223:8443 [VLESS]",
+        "Saffari @MyChannel 8.35.211.245:2096 [VLESS]",
+        "Saffari @MyChannel 104.17.176.36:2053 [VLESS]",
+        "Saffari @MyChannel 162.159.39.51:2083 [VLESS]",
+        "Saffari @MyChannel 162.159.39.50:2087 [VLESS]",
+        "Saffari @MyChannel 8.35.211.253:2087 [VLESS]"
       ]
     },
     {
@@ -691,22 +691,22 @@
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01",
         "DIRECT",
         "Saffari @MyChannel me.saffari.shop:443 [VLESS]",
-        "Saffari @MyChannel 173.245.59.174:2087 [VLESS]",
-        "Saffari @MyChannel 198.41.223.92:2053 [VLESS]",
-        "Saffari @MyChannel 173.245.58.125:2083 [VLESS]",
-        "Saffari @MyChannel 91.193.58.49:2053 [VLESS]",
-        "Saffari @MyChannel 104.16.250.200:2087 [VLESS]",
-        "Saffari @MyChannel 104.17.115.241:8443 [VLESS]",
-        "Saffari @MyChannel 198.41.223.223:8443 [VLESS]",
-        "Saffari @MyChannel 91.193.58.79:443 [VLESS]",
-        "Saffari @MyChannel 104.18.33.101:443 [VLESS]",
-        "Saffari @MyChannel 104.17.159.119:8443 [VLESS]",
-        "Saffari @MyChannel 198.41.223.103:2053 [VLESS]",
-        "Saffari @MyChannel 8.35.211.247:2087 [VLESS]",
-        "Saffari @MyChannel 8.35.211.77:2053 [VLESS]",
-        "Saffari @MyChannel 104.26.6.235:2053 [VLESS]",
-        "Saffari @MyChannel 188.164.248.6:8443 [VLESS]",
-        "Saffari @MyChannel 104.17.217.193:2096 [VLESS]"
+        "Saffari @MyChannel 104.19.34.137:2053 [VLESS]",
+        "Saffari @MyChannel 104.17.116.226:8443 [VLESS]",
+        "Saffari @MyChannel 108.162.198.234:2053 [VLESS]",
+        "Saffari @MyChannel 104.17.209.123:443 [VLESS]",
+        "Saffari @MyChannel 172.67.66.121:2096 [VLESS]",
+        "Saffari @MyChannel 172.67.77.125:2096 [VLESS]",
+        "Saffari @MyChannel 91.193.58.167:443 [VLESS]",
+        "Saffari @MyChannel 104.16.249.25:8443 [VLESS]",
+        "Saffari @MyChannel 104.17.167.244:8443 [VLESS]",
+        "Saffari @MyChannel 8.35.211.233:2087 [VLESS]",
+        "Saffari @MyChannel 104.17.186.223:8443 [VLESS]",
+        "Saffari @MyChannel 8.35.211.245:2096 [VLESS]",
+        "Saffari @MyChannel 104.17.176.36:2053 [VLESS]",
+        "Saffari @MyChannel 162.159.39.51:2083 [VLESS]",
+        "Saffari @MyChannel 162.159.39.50:2087 [VLESS]",
+        "Saffari @MyChannel 8.35.211.253:2087 [VLESS]"
       ]
     },
     {
