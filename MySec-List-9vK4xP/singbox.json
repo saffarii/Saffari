@@ -77,12 +77,12 @@
         "type": "ws",
         "path": "/?fake=1",
         "headers": {
-          "Host": "me.saffari.shop"
+          "Host": "nova-mango-vault-6a82.saffari.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.saffari.shop"
+        "server_name": "nova-mango-vault-6a82.saffari.workers.dev"
       }
     },
     {
@@ -97,12 +97,12 @@
         "type": "ws",
         "path": "/?fake=1",
         "headers": {
-          "Host": "me.saffari.shop"
+          "Host": "nova-mango-vault-6a82.saffari.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.saffari.shop"
+        "server_name": "nova-mango-vault-6a82.saffari.workers.dev"
       }
     },
     {
@@ -111,8 +111,8 @@
     },
     {
       "type": "vless",
-      "tag": "Saffari @MyChannel me.saffari.shop:443 [VLESS]",
-      "server": "me.saffari.shop",
+      "tag": "Saffari @MyChannel nova-mango-vault-6a82.saffari.workers.dev:443 [VLESS]",
+      "server": "nova-mango-vault-6a82.saffari.workers.dev",
       "server_port": 443,
       "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
       "transport": {
@@ -134,8 +134,77 @@
     },
     {
       "type": "vless",
-      "tag": "Saffari @MyChannel 104.17.97.226:443 [VLESS]",
-      "server": "104.17.97.226",
+      "tag": "Saffari @MyChannel 104.19.48.163:8443 [VLESS]",
+      "server": "104.19.48.163",
+      "server_port": 8443,
+      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-mango-vault-6a82.saffari.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-mango-vault-6a82.saffari.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "Saffari @MyChannel 104.17.101.154:2053 [VLESS]",
+      "server": "104.17.101.154",
+      "server_port": 2053,
+      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-mango-vault-6a82.saffari.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-mango-vault-6a82.saffari.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "Saffari @MyChannel 104.19.35.155:8443 [VLESS]",
+      "server": "104.19.35.155",
+      "server_port": 8443,
+      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-mango-vault-6a82.saffari.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-mango-vault-6a82.saffari.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "Saffari @MyChannel 104.17.60.175:443 [VLESS]",
+      "server": "104.17.60.175",
       "server_port": 443,
       "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
       "transport": {
@@ -157,31 +226,8 @@
     },
     {
       "type": "vless",
-      "tag": "Saffari @MyChannel 104.26.8.129:2083 [VLESS]",
-      "server": "104.26.8.129",
-      "server_port": 2083,
-      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-mango-vault-6a82.saffari.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-mango-vault-6a82.saffari.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "Saffari @MyChannel 104.17.60.78:2053 [VLESS]",
-      "server": "104.17.60.78",
+      "tag": "Saffari @MyChannel 91.193.58.78:2053 [VLESS]",
+      "server": "91.193.58.78",
       "server_port": 2053,
       "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
       "transport": {
@@ -203,100 +249,8 @@
     },
     {
       "type": "vless",
-      "tag": "Saffari @MyChannel 104.26.5.85:2083 [VLESS]",
-      "server": "104.26.5.85",
-      "server_port": 2083,
-      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-mango-vault-6a82.saffari.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-mango-vault-6a82.saffari.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "Saffari @MyChannel 198.41.209.146:2087 [VLESS]",
-      "server": "198.41.209.146",
-      "server_port": 2087,
-      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-mango-vault-6a82.saffari.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-mango-vault-6a82.saffari.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "Saffari @MyChannel 108.162.198.195:2053 [VLESS]",
-      "server": "108.162.198.195",
-      "server_port": 2053,
-      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-mango-vault-6a82.saffari.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-mango-vault-6a82.saffari.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "Saffari @MyChannel 104.26.9.52:2053 [VLESS]",
-      "server": "104.26.9.52",
-      "server_port": 2053,
-      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-mango-vault-6a82.saffari.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-mango-vault-6a82.saffari.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "Saffari @MyChannel 104.17.150.199:443 [VLESS]",
-      "server": "104.17.150.199",
+      "tag": "Saffari @MyChannel 104.17.28.169:443 [VLESS]",
+      "server": "104.17.28.169",
       "server_port": 443,
       "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
       "transport": {
@@ -318,8 +272,8 @@
     },
     {
       "type": "vless",
-      "tag": "Saffari @MyChannel 173.245.58.1:2096 [VLESS]",
-      "server": "173.245.58.1",
+      "tag": "Saffari @MyChannel 172.67.77.187:2096 [VLESS]",
+      "server": "172.67.77.187",
       "server_port": 2096,
       "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
       "transport": {
@@ -341,100 +295,8 @@
     },
     {
       "type": "vless",
-      "tag": "Saffari @MyChannel 162.159.36.7:2053 [VLESS]",
-      "server": "162.159.36.7",
-      "server_port": 2053,
-      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-mango-vault-6a82.saffari.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-mango-vault-6a82.saffari.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "Saffari @MyChannel 8.39.125.47:443 [VLESS]",
-      "server": "8.39.125.47",
-      "server_port": 443,
-      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-mango-vault-6a82.saffari.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-mango-vault-6a82.saffari.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "Saffari @MyChannel 104.19.147.193:2053 [VLESS]",
-      "server": "104.19.147.193",
-      "server_port": 2053,
-      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-mango-vault-6a82.saffari.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-mango-vault-6a82.saffari.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "Saffari @MyChannel 162.159.39.231:443 [VLESS]",
-      "server": "162.159.39.231",
-      "server_port": 443,
-      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-mango-vault-6a82.saffari.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-mango-vault-6a82.saffari.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "Saffari @MyChannel 104.19.33.183:2083 [VLESS]",
-      "server": "104.19.33.183",
+      "tag": "Saffari @MyChannel 198.41.208.56:2083 [VLESS]",
+      "server": "198.41.208.56",
       "server_port": 2083,
       "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
       "transport": {
@@ -456,8 +318,31 @@
     },
     {
       "type": "vless",
-      "tag": "Saffari @MyChannel 104.17.58.56:2096 [VLESS]",
-      "server": "104.17.58.56",
+      "tag": "Saffari @MyChannel 172.67.66.153:2087 [VLESS]",
+      "server": "172.67.66.153",
+      "server_port": 2087,
+      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-mango-vault-6a82.saffari.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-mango-vault-6a82.saffari.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "Saffari @MyChannel 8.35.211.212:2096 [VLESS]",
+      "server": "8.35.211.212",
       "server_port": 2096,
       "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
       "transport": {
@@ -479,9 +364,124 @@
     },
     {
       "type": "vless",
-      "tag": "Saffari @MyChannel 172.66.3.143:2087 [VLESS]",
-      "server": "172.66.3.143",
+      "tag": "Saffari @MyChannel 172.66.2.67:8443 [VLESS]",
+      "server": "172.66.2.67",
+      "server_port": 8443,
+      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-mango-vault-6a82.saffari.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-mango-vault-6a82.saffari.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "Saffari @MyChannel 172.67.66.86:2087 [VLESS]",
+      "server": "172.67.66.86",
       "server_port": 2087,
+      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-mango-vault-6a82.saffari.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-mango-vault-6a82.saffari.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "Saffari @MyChannel 173.245.58.228:2083 [VLESS]",
+      "server": "173.245.58.228",
+      "server_port": 2083,
+      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-mango-vault-6a82.saffari.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-mango-vault-6a82.saffari.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "Saffari @MyChannel 104.16.255.35:443 [VLESS]",
+      "server": "104.16.255.35",
+      "server_port": 443,
+      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-mango-vault-6a82.saffari.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-mango-vault-6a82.saffari.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "Saffari @MyChannel 104.17.109.248:2087 [VLESS]",
+      "server": "104.17.109.248",
+      "server_port": 2087,
+      "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-mango-vault-6a82.saffari.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-mango-vault-6a82.saffari.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "Saffari @MyChannel 162.159.45.38:2053 [VLESS]",
+      "server": "162.159.45.38",
+      "server_port": 2053,
       "uuid": "4210116c-b5d2-458f-8482-751fb74d3d43",
       "transport": {
         "path": "/",
@@ -510,46 +510,46 @@
         "🔯 故障转移",
         "🔮 负载均衡",
         "DIRECT",
-        "Saffari @MyChannel me.saffari.shop:443 [VLESS]",
-        "Saffari @MyChannel 104.17.97.226:443 [VLESS]",
-        "Saffari @MyChannel 104.26.8.129:2083 [VLESS]",
-        "Saffari @MyChannel 104.17.60.78:2053 [VLESS]",
-        "Saffari @MyChannel 104.26.5.85:2083 [VLESS]",
-        "Saffari @MyChannel 198.41.209.146:2087 [VLESS]",
-        "Saffari @MyChannel 108.162.198.195:2053 [VLESS]",
-        "Saffari @MyChannel 104.26.9.52:2053 [VLESS]",
-        "Saffari @MyChannel 104.17.150.199:443 [VLESS]",
-        "Saffari @MyChannel 173.245.58.1:2096 [VLESS]",
-        "Saffari @MyChannel 162.159.36.7:2053 [VLESS]",
-        "Saffari @MyChannel 8.39.125.47:443 [VLESS]",
-        "Saffari @MyChannel 104.19.147.193:2053 [VLESS]",
-        "Saffari @MyChannel 162.159.39.231:443 [VLESS]",
-        "Saffari @MyChannel 104.19.33.183:2083 [VLESS]",
-        "Saffari @MyChannel 104.17.58.56:2096 [VLESS]",
-        "Saffari @MyChannel 172.66.3.143:2087 [VLESS]"
+        "Saffari @MyChannel nova-mango-vault-6a82.saffari.workers.dev:443 [VLESS]",
+        "Saffari @MyChannel 104.19.48.163:8443 [VLESS]",
+        "Saffari @MyChannel 104.17.101.154:2053 [VLESS]",
+        "Saffari @MyChannel 104.19.35.155:8443 [VLESS]",
+        "Saffari @MyChannel 104.17.60.175:443 [VLESS]",
+        "Saffari @MyChannel 91.193.58.78:2053 [VLESS]",
+        "Saffari @MyChannel 104.17.28.169:443 [VLESS]",
+        "Saffari @MyChannel 172.67.77.187:2096 [VLESS]",
+        "Saffari @MyChannel 198.41.208.56:2083 [VLESS]",
+        "Saffari @MyChannel 172.67.66.153:2087 [VLESS]",
+        "Saffari @MyChannel 8.35.211.212:2096 [VLESS]",
+        "Saffari @MyChannel 172.66.2.67:8443 [VLESS]",
+        "Saffari @MyChannel 172.67.66.86:2087 [VLESS]",
+        "Saffari @MyChannel 173.245.58.228:2083 [VLESS]",
+        "Saffari @MyChannel 104.16.255.35:443 [VLESS]",
+        "Saffari @MyChannel 104.17.109.248:2087 [VLESS]",
+        "Saffari @MyChannel 162.159.45.38:2053 [VLESS]"
       ]
     },
     {
       "type": "urltest",
       "tag": "♻️ 自动选择",
       "outbounds": [
-        "Saffari @MyChannel me.saffari.shop:443 [VLESS]",
-        "Saffari @MyChannel 104.17.97.226:443 [VLESS]",
-        "Saffari @MyChannel 104.26.8.129:2083 [VLESS]",
-        "Saffari @MyChannel 104.17.60.78:2053 [VLESS]",
-        "Saffari @MyChannel 104.26.5.85:2083 [VLESS]",
-        "Saffari @MyChannel 198.41.209.146:2087 [VLESS]",
-        "Saffari @MyChannel 108.162.198.195:2053 [VLESS]",
-        "Saffari @MyChannel 104.26.9.52:2053 [VLESS]",
-        "Saffari @MyChannel 104.17.150.199:443 [VLESS]",
-        "Saffari @MyChannel 173.245.58.1:2096 [VLESS]",
-        "Saffari @MyChannel 162.159.36.7:2053 [VLESS]",
-        "Saffari @MyChannel 8.39.125.47:443 [VLESS]",
-        "Saffari @MyChannel 104.19.147.193:2053 [VLESS]",
-        "Saffari @MyChannel 162.159.39.231:443 [VLESS]",
-        "Saffari @MyChannel 104.19.33.183:2083 [VLESS]",
-        "Saffari @MyChannel 104.17.58.56:2096 [VLESS]",
-        "Saffari @MyChannel 172.66.3.143:2087 [VLESS]"
+        "Saffari @MyChannel nova-mango-vault-6a82.saffari.workers.dev:443 [VLESS]",
+        "Saffari @MyChannel 104.19.48.163:8443 [VLESS]",
+        "Saffari @MyChannel 104.17.101.154:2053 [VLESS]",
+        "Saffari @MyChannel 104.19.35.155:8443 [VLESS]",
+        "Saffari @MyChannel 104.17.60.175:443 [VLESS]",
+        "Saffari @MyChannel 91.193.58.78:2053 [VLESS]",
+        "Saffari @MyChannel 104.17.28.169:443 [VLESS]",
+        "Saffari @MyChannel 172.67.77.187:2096 [VLESS]",
+        "Saffari @MyChannel 198.41.208.56:2083 [VLESS]",
+        "Saffari @MyChannel 172.67.66.153:2087 [VLESS]",
+        "Saffari @MyChannel 8.35.211.212:2096 [VLESS]",
+        "Saffari @MyChannel 172.66.2.67:8443 [VLESS]",
+        "Saffari @MyChannel 172.67.66.86:2087 [VLESS]",
+        "Saffari @MyChannel 173.245.58.228:2083 [VLESS]",
+        "Saffari @MyChannel 104.16.255.35:443 [VLESS]",
+        "Saffari @MyChannel 104.17.109.248:2087 [VLESS]",
+        "Saffari @MyChannel 162.159.45.38:2053 [VLESS]"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "5m",
@@ -559,46 +559,46 @@
       "type": "urltest",
       "tag": "🔯 故障转移",
       "outbounds": [
-        "Saffari @MyChannel me.saffari.shop:443 [VLESS]",
-        "Saffari @MyChannel 104.17.97.226:443 [VLESS]",
-        "Saffari @MyChannel 104.26.8.129:2083 [VLESS]",
-        "Saffari @MyChannel 104.17.60.78:2053 [VLESS]",
-        "Saffari @MyChannel 104.26.5.85:2083 [VLESS]",
-        "Saffari @MyChannel 198.41.209.146:2087 [VLESS]",
-        "Saffari @MyChannel 108.162.198.195:2053 [VLESS]",
-        "Saffari @MyChannel 104.26.9.52:2053 [VLESS]",
-        "Saffari @MyChannel 104.17.150.199:443 [VLESS]",
-        "Saffari @MyChannel 173.245.58.1:2096 [VLESS]",
-        "Saffari @MyChannel 162.159.36.7:2053 [VLESS]",
-        "Saffari @MyChannel 8.39.125.47:443 [VLESS]",
-        "Saffari @MyChannel 104.19.147.193:2053 [VLESS]",
-        "Saffari @MyChannel 162.159.39.231:443 [VLESS]",
-        "Saffari @MyChannel 104.19.33.183:2083 [VLESS]",
-        "Saffari @MyChannel 104.17.58.56:2096 [VLESS]",
-        "Saffari @MyChannel 172.66.3.143:2087 [VLESS]"
+        "Saffari @MyChannel nova-mango-vault-6a82.saffari.workers.dev:443 [VLESS]",
+        "Saffari @MyChannel 104.19.48.163:8443 [VLESS]",
+        "Saffari @MyChannel 104.17.101.154:2053 [VLESS]",
+        "Saffari @MyChannel 104.19.35.155:8443 [VLESS]",
+        "Saffari @MyChannel 104.17.60.175:443 [VLESS]",
+        "Saffari @MyChannel 91.193.58.78:2053 [VLESS]",
+        "Saffari @MyChannel 104.17.28.169:443 [VLESS]",
+        "Saffari @MyChannel 172.67.77.187:2096 [VLESS]",
+        "Saffari @MyChannel 198.41.208.56:2083 [VLESS]",
+        "Saffari @MyChannel 172.67.66.153:2087 [VLESS]",
+        "Saffari @MyChannel 8.35.211.212:2096 [VLESS]",
+        "Saffari @MyChannel 172.66.2.67:8443 [VLESS]",
+        "Saffari @MyChannel 172.67.66.86:2087 [VLESS]",
+        "Saffari @MyChannel 173.245.58.228:2083 [VLESS]",
+        "Saffari @MyChannel 104.16.255.35:443 [VLESS]",
+        "Saffari @MyChannel 104.17.109.248:2087 [VLESS]",
+        "Saffari @MyChannel 162.159.45.38:2053 [VLESS]"
       ]
     },
     {
       "type": "urltest",
       "tag": "🔮 负载均衡",
       "outbounds": [
-        "Saffari @MyChannel me.saffari.shop:443 [VLESS]",
-        "Saffari @MyChannel 104.17.97.226:443 [VLESS]",
-        "Saffari @MyChannel 104.26.8.129:2083 [VLESS]",
-        "Saffari @MyChannel 104.17.60.78:2053 [VLESS]",
-        "Saffari @MyChannel 104.26.5.85:2083 [VLESS]",
-        "Saffari @MyChannel 198.41.209.146:2087 [VLESS]",
-        "Saffari @MyChannel 108.162.198.195:2053 [VLESS]",
-        "Saffari @MyChannel 104.26.9.52:2053 [VLESS]",
-        "Saffari @MyChannel 104.17.150.199:443 [VLESS]",
-        "Saffari @MyChannel 173.245.58.1:2096 [VLESS]",
-        "Saffari @MyChannel 162.159.36.7:2053 [VLESS]",
-        "Saffari @MyChannel 8.39.125.47:443 [VLESS]",
-        "Saffari @MyChannel 104.19.147.193:2053 [VLESS]",
-        "Saffari @MyChannel 162.159.39.231:443 [VLESS]",
-        "Saffari @MyChannel 104.19.33.183:2083 [VLESS]",
-        "Saffari @MyChannel 104.17.58.56:2096 [VLESS]",
-        "Saffari @MyChannel 172.66.3.143:2087 [VLESS]"
+        "Saffari @MyChannel nova-mango-vault-6a82.saffari.workers.dev:443 [VLESS]",
+        "Saffari @MyChannel 104.19.48.163:8443 [VLESS]",
+        "Saffari @MyChannel 104.17.101.154:2053 [VLESS]",
+        "Saffari @MyChannel 104.19.35.155:8443 [VLESS]",
+        "Saffari @MyChannel 104.17.60.175:443 [VLESS]",
+        "Saffari @MyChannel 91.193.58.78:2053 [VLESS]",
+        "Saffari @MyChannel 104.17.28.169:443 [VLESS]",
+        "Saffari @MyChannel 172.67.77.187:2096 [VLESS]",
+        "Saffari @MyChannel 198.41.208.56:2083 [VLESS]",
+        "Saffari @MyChannel 172.67.66.153:2087 [VLESS]",
+        "Saffari @MyChannel 8.35.211.212:2096 [VLESS]",
+        "Saffari @MyChannel 172.66.2.67:8443 [VLESS]",
+        "Saffari @MyChannel 172.67.66.86:2087 [VLESS]",
+        "Saffari @MyChannel 173.245.58.228:2083 [VLESS]",
+        "Saffari @MyChannel 104.16.255.35:443 [VLESS]",
+        "Saffari @MyChannel 104.17.109.248:2087 [VLESS]",
+        "Saffari @MyChannel 162.159.45.38:2053 [VLESS]"
       ]
     },
     {
@@ -633,23 +633,23 @@
         "♻️ 自动选择",
         "🔯 故障转移",
         "🔮 负载均衡",
-        "Saffari @MyChannel me.saffari.shop:443 [VLESS]",
-        "Saffari @MyChannel 104.17.97.226:443 [VLESS]",
-        "Saffari @MyChannel 104.26.8.129:2083 [VLESS]",
-        "Saffari @MyChannel 104.17.60.78:2053 [VLESS]",
-        "Saffari @MyChannel 104.26.5.85:2083 [VLESS]",
-        "Saffari @MyChannel 198.41.209.146:2087 [VLESS]",
-        "Saffari @MyChannel 108.162.198.195:2053 [VLESS]",
-        "Saffari @MyChannel 104.26.9.52:2053 [VLESS]",
-        "Saffari @MyChannel 104.17.150.199:443 [VLESS]",
-        "Saffari @MyChannel 173.245.58.1:2096 [VLESS]",
-        "Saffari @MyChannel 162.159.36.7:2053 [VLESS]",
-        "Saffari @MyChannel 8.39.125.47:443 [VLESS]",
-        "Saffari @MyChannel 104.19.147.193:2053 [VLESS]",
-        "Saffari @MyChannel 162.159.39.231:443 [VLESS]",
-        "Saffari @MyChannel 104.19.33.183:2083 [VLESS]",
-        "Saffari @MyChannel 104.17.58.56:2096 [VLESS]",
-        "Saffari @MyChannel 172.66.3.143:2087 [VLESS]"
+        "Saffari @MyChannel nova-mango-vault-6a82.saffari.workers.dev:443 [VLESS]",
+        "Saffari @MyChannel 104.19.48.163:8443 [VLESS]",
+        "Saffari @MyChannel 104.17.101.154:2053 [VLESS]",
+        "Saffari @MyChannel 104.19.35.155:8443 [VLESS]",
+        "Saffari @MyChannel 104.17.60.175:443 [VLESS]",
+        "Saffari @MyChannel 91.193.58.78:2053 [VLESS]",
+        "Saffari @MyChannel 104.17.28.169:443 [VLESS]",
+        "Saffari @MyChannel 172.67.77.187:2096 [VLESS]",
+        "Saffari @MyChannel 198.41.208.56:2083 [VLESS]",
+        "Saffari @MyChannel 172.67.66.153:2087 [VLESS]",
+        "Saffari @MyChannel 8.35.211.212:2096 [VLESS]",
+        "Saffari @MyChannel 172.66.2.67:8443 [VLESS]",
+        "Saffari @MyChannel 172.67.66.86:2087 [VLESS]",
+        "Saffari @MyChannel 173.245.58.228:2083 [VLESS]",
+        "Saffari @MyChannel 104.16.255.35:443 [VLESS]",
+        "Saffari @MyChannel 104.17.109.248:2087 [VLESS]",
+        "Saffari @MyChannel 162.159.45.38:2053 [VLESS]"
       ]
     },
     {
@@ -664,23 +664,23 @@
         "♻️ 自动选择",
         "🔯 故障转移",
         "🔮 负载均衡",
-        "Saffari @MyChannel me.saffari.shop:443 [VLESS]",
-        "Saffari @MyChannel 104.17.97.226:443 [VLESS]",
-        "Saffari @MyChannel 104.26.8.129:2083 [VLESS]",
-        "Saffari @MyChannel 104.17.60.78:2053 [VLESS]",
-        "Saffari @MyChannel 104.26.5.85:2083 [VLESS]",
-        "Saffari @MyChannel 198.41.209.146:2087 [VLESS]",
-        "Saffari @MyChannel 108.162.198.195:2053 [VLESS]",
-        "Saffari @MyChannel 104.26.9.52:2053 [VLESS]",
-        "Saffari @MyChannel 104.17.150.199:443 [VLESS]",
-        "Saffari @MyChannel 173.245.58.1:2096 [VLESS]",
-        "Saffari @MyChannel 162.159.36.7:2053 [VLESS]",
-        "Saffari @MyChannel 8.39.125.47:443 [VLESS]",
-        "Saffari @MyChannel 104.19.147.193:2053 [VLESS]",
-        "Saffari @MyChannel 162.159.39.231:443 [VLESS]",
-        "Saffari @MyChannel 104.19.33.183:2083 [VLESS]",
-        "Saffari @MyChannel 104.17.58.56:2096 [VLESS]",
-        "Saffari @MyChannel 172.66.3.143:2087 [VLESS]"
+        "Saffari @MyChannel nova-mango-vault-6a82.saffari.workers.dev:443 [VLESS]",
+        "Saffari @MyChannel 104.19.48.163:8443 [VLESS]",
+        "Saffari @MyChannel 104.17.101.154:2053 [VLESS]",
+        "Saffari @MyChannel 104.19.35.155:8443 [VLESS]",
+        "Saffari @MyChannel 104.17.60.175:443 [VLESS]",
+        "Saffari @MyChannel 91.193.58.78:2053 [VLESS]",
+        "Saffari @MyChannel 104.17.28.169:443 [VLESS]",
+        "Saffari @MyChannel 172.67.77.187:2096 [VLESS]",
+        "Saffari @MyChannel 198.41.208.56:2083 [VLESS]",
+        "Saffari @MyChannel 172.67.66.153:2087 [VLESS]",
+        "Saffari @MyChannel 8.35.211.212:2096 [VLESS]",
+        "Saffari @MyChannel 172.66.2.67:8443 [VLESS]",
+        "Saffari @MyChannel 172.67.66.86:2087 [VLESS]",
+        "Saffari @MyChannel 173.245.58.228:2083 [VLESS]",
+        "Saffari @MyChannel 104.16.255.35:443 [VLESS]",
+        "Saffari @MyChannel 104.17.109.248:2087 [VLESS]",
+        "Saffari @MyChannel 162.159.45.38:2053 [VLESS]"
       ]
     },
     {
@@ -690,23 +690,23 @@
         "📢 https://t.me/MyChannel",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01",
         "DIRECT",
-        "Saffari @MyChannel me.saffari.shop:443 [VLESS]",
-        "Saffari @MyChannel 104.17.97.226:443 [VLESS]",
-        "Saffari @MyChannel 104.26.8.129:2083 [VLESS]",
-        "Saffari @MyChannel 104.17.60.78:2053 [VLESS]",
-        "Saffari @MyChannel 104.26.5.85:2083 [VLESS]",
-        "Saffari @MyChannel 198.41.209.146:2087 [VLESS]",
-        "Saffari @MyChannel 108.162.198.195:2053 [VLESS]",
-        "Saffari @MyChannel 104.26.9.52:2053 [VLESS]",
-        "Saffari @MyChannel 104.17.150.199:443 [VLESS]",
-        "Saffari @MyChannel 173.245.58.1:2096 [VLESS]",
-        "Saffari @MyChannel 162.159.36.7:2053 [VLESS]",
-        "Saffari @MyChannel 8.39.125.47:443 [VLESS]",
-        "Saffari @MyChannel 104.19.147.193:2053 [VLESS]",
-        "Saffari @MyChannel 162.159.39.231:443 [VLESS]",
-        "Saffari @MyChannel 104.19.33.183:2083 [VLESS]",
-        "Saffari @MyChannel 104.17.58.56:2096 [VLESS]",
-        "Saffari @MyChannel 172.66.3.143:2087 [VLESS]"
+        "Saffari @MyChannel nova-mango-vault-6a82.saffari.workers.dev:443 [VLESS]",
+        "Saffari @MyChannel 104.19.48.163:8443 [VLESS]",
+        "Saffari @MyChannel 104.17.101.154:2053 [VLESS]",
+        "Saffari @MyChannel 104.19.35.155:8443 [VLESS]",
+        "Saffari @MyChannel 104.17.60.175:443 [VLESS]",
+        "Saffari @MyChannel 91.193.58.78:2053 [VLESS]",
+        "Saffari @MyChannel 104.17.28.169:443 [VLESS]",
+        "Saffari @MyChannel 172.67.77.187:2096 [VLESS]",
+        "Saffari @MyChannel 198.41.208.56:2083 [VLESS]",
+        "Saffari @MyChannel 172.67.66.153:2087 [VLESS]",
+        "Saffari @MyChannel 8.35.211.212:2096 [VLESS]",
+        "Saffari @MyChannel 172.66.2.67:8443 [VLESS]",
+        "Saffari @MyChannel 172.67.66.86:2087 [VLESS]",
+        "Saffari @MyChannel 173.245.58.228:2083 [VLESS]",
+        "Saffari @MyChannel 104.16.255.35:443 [VLESS]",
+        "Saffari @MyChannel 104.17.109.248:2087 [VLESS]",
+        "Saffari @MyChannel 162.159.45.38:2053 [VLESS]"
       ]
     },
     {
